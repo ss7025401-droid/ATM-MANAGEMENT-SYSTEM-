@@ -29,7 +29,7 @@ class ATM:
 
 def main():
     # Create a sample account
-    atm = ATM("User1", 1234, 5000)
+    atm = ATM("User1", 2007, 5000)
 
     print("=== Welcome to ATM ===")
     entered_pin = int(input("Enter your PIN: "))
